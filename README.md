@@ -6,8 +6,7 @@ Designed with a clean UI, smooth animations, and an interactive ID-card style la
 ---
 
 ## 🚀 Live Preview
-🔗 **Website:** https://your-portfolio-link.com  
-🔗 **GitHub Repository:** https://github.com/your-username/portfolio
+🔗 **Live Website:** https://nightkilller.github.io/My_Portfolio/
 
 ---
 
@@ -27,8 +26,7 @@ This portfolio represents my journey, skills, and projects.
 - 🌗 Light / Dark mode support  
 - 🧊 Glassmorphism & smooth animations  
 - 📱 Fully responsive (Mobile, Tablet, Desktop)  
-- 🔗 Social media & contact links  
-- 📄 Downloadable resume button  
+- 🔗 Social media & contact links   
 
 ---
 
@@ -40,6 +38,4 @@ This portfolio represents my journey, skills, and projects.
 - **Responsive Design**
 - **CSS Animations & Transitions**
 
----
 
-## 📂 Project Structure
