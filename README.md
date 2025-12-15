@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+# 🌐 My Portfolio 
 
 A modern, responsive personal portfolio website built to showcase my skills, projects, and professional profile.  
 Designed with a clean UI, smooth animations, and an interactive ID-card style layout.
