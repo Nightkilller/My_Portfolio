@@ -6,7 +6,7 @@ Designed with a clean UI, smooth animations, and an interactive ID-card style la
 ---
 
 ## 🚀 Live Preview
-🔗 **Live Website:** https://nightkilller.github.io/My_Portfolio/](https://my-portfolio-green-tau-88.vercel.app/
+🔗 **Live Website:** https://my-portfolio-green-tau-88.vercel.app/
 
 ---
 
